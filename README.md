@@ -46,7 +46,7 @@ During monsoon season, drying clothes outside becomes a challenge. We designed t
 
 ## 📷 Demo
 
-![demo-image](images/demo.jpg) <!-- Add your real image here -->
+![demo-image](https://github.com/Arshiya-Sheikh/Auto-Rain-Sheild-for-Clothes-Mini-Project/blob/main/IMG-20250320-WA0011.jpg) <!-- Add your real image here -->
 📺 [Watch Video Demo](https://www.youtube.com/your-demo-link)
 
 ---
